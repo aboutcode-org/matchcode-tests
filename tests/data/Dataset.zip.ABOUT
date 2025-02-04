@@ -1,0 +1,5 @@
+about_resource: Dataset.zip
+name: Dataset.zip
+download_url: https://files.ca-1.osf.io/v1/resources/46nva/providers/osfstorage/?view_only=9110c4a94f0a4b4591f14fdd976deeca&zip=
+copyright: Sufiyan Bukhari, Benjamin Tan, Lorenzo De Carli
+notes: Dataset.zip is contained within the zip file located at the download_url. This dataset is for the paper at https://dl.acm.org/doi/10.1145/3605770.3625215

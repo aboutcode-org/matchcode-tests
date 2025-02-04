@@ -16,7 +16,7 @@ from commoncode.testcase import check_against_expected_json_file
 
 from matchcode_toolkit.fingerprinting import get_file_fingerprint_hashes
 from matchcode_toolkit.fingerprinting import split_fingerprint
-from matchcode_toolkit.halohash import byte_hamming_distance
+from samecode.halohash import byte_hamming_distance
 
 
 class TestMatchcode(FileBasedTesting):
@@ -57,10 +57,8 @@ class TestMatchcode(FileBasedTesting):
             for llm in llms:
                 for code_gen_type in code_gen_types:
                     for i in range(1, 21):
-                        test_file_loc = (
-                            f"{self.test_data_loc}/data/{problem}/{temp}/{llm}/{code_gen_type}/"
-                            f"repeated/llm_generated/generated_{i}.java"
-                        )
+                        test_file_relative_path = f"data/{problem}/{temp}/{llm}/{code_gen_type}/repeated/llm_generated/generated_{i}.java"
+                        test_file_loc = f"{self.test_data_loc}/{test_file_relative_path}"
                         gen_solution = self.get_test_loc(test_file_loc)
                         gen_results = get_file_fingerprint_hashes(gen_solution, include_ngrams=True)
                         gen_halo1 = gen_results.get("halo1")
@@ -78,28 +76,29 @@ class TestMatchcode(FileBasedTesting):
                             solution_snippet_mappings_by_snippets.keys()
                             & gen_snippet_mappings_by_snippets.keys()
                         )
-                        snippets_matched_to_solution = [
-                            solution_snippet_mappings_by_snippets[snippet]
-                            for snippet in snippet_results
-                        ]
-                        snippets_matched_to_gen = [
-                            gen_snippet_mappings_by_snippets[snippet] for snippet in snippet_results
-                        ]
+
+                        snippets_matched_to_solution = []
+                        for snippet in snippet_results:
+                            snippets_matched_to_solution.extend(solution_snippet_mappings_by_snippets[snippet])
+
+                        snippets_matched_to_gen = []
+                        for snippet in snippet_results:
+                            snippets_matched_to_gen.extend(gen_snippet_mappings_by_snippets[snippet])
 
                         results.append(
                             {
-                                test_file_loc: {
-                                    "distance": distance,
-                                    "snippets_matched_to_solution": snippets_matched_to_solution,
-                                    "snippets_matched_to_gen": snippets_matched_to_gen,
-                                }
+                                "test_file": test_file_relative_path,
+                                "distance": distance,
+                                "snippets_matched_to_solution": sorted(snippets_matched_to_solution, key=lambda x: x["position"]),
+                                "snippets_matched_to_gen": sorted(snippets_matched_to_gen, key=lambda x: x["position"]),
                             }
                         )
 
         expected_results_loc = self.get_test_loc(
             f"{problem}-expected.json"
         )
-        check_against_expected_json_file(results, expected_results_loc, regen=regen)
+        sorted_results = sorted(results, key=lambda x: x["test_file"])
+        check_against_expected_json_file(sorted_results, expected_results_loc, regen=regen)
 
     def test_snippets_similarity_ai_gen_code_bob_alice_flower(self):
         self._test_snippets_similarity_ai_gen_code("bob_alice_flower", regen=False)
@@ -130,3 +129,97 @@ class TestMatchcode(FileBasedTesting):
 
     def test_snippets_similarity_ai_gen_code_min_time_revert(self):
         self._test_snippets_similarity_ai_gen_code("min_time_revert", regen=False)
+
+
+class TestMatchcode2(FileBasedTesting):
+    test_data_dir = os.path.join(os.path.dirname(__file__), "data")
+
+    def setUp(self):
+        super().setUp()
+        data_zip_loc = self.get_test_loc("Dataset.zip")
+        self.test_data_loc = self.extract_test_zip(data_zip_loc)
+
+    def tearDown(self):
+        super().tearDown()
+        delete(self.test_data_loc)
+
+    def test_snippets_similarity_ai_gen_code(self, regen=False):
+        def create_snippet_mappings_by_snippets(snippets):
+            snippet_mappings_by_snippet = defaultdict(list)
+            for s in snippets:
+                snippet = s["snippet"]
+                snippet_mappings_by_snippet[snippet].append(s)
+            return snippet_mappings_by_snippet
+
+        results = []
+        # 1. get solutions to see which files we can actually compare
+        for i in range(1, 29):
+            solution_files_dir = f"{self.test_data_loc}/Dataset/Control/Human{i}"
+            test_files_dir = f"{self.test_data_loc}/Dataset/Autopilot/Machine{i}"
+            solution_file_names = [f for f in os.listdir(solution_files_dir) if f != ".DS_Store" and os.path.isfile(os.path.join(solution_files_dir, f))]
+            solution_file_basenames = []
+            solution_file_names_by_basenames = {}
+            for solution_file_name in solution_file_names:
+                solution_file_basename, _ = solution_file_name.split("_")
+                solution_file_basenames.append(solution_file_basename)
+                solution_file_names_by_basenames[solution_file_basename] = solution_file_name
+
+            test_file_names = [f for f in os.listdir(test_files_dir) if f != ".DS_Store" and os.path.isfile(os.path.join(test_files_dir, f))]
+            test_file_basenames = []
+            test_file_names_by_basenames = {}
+            for test_file_name in test_file_names:
+                test_file_basename, _ = test_file_name.split("_")
+                test_file_basenames.append(test_file_basename)
+                test_file_names_by_basenames[test_file_basename] = test_file_name
+
+            common_file_basenames = list(set(solution_file_basenames) & set(test_file_basenames))
+
+            for common_file_basename in common_file_basenames:
+                solution_file_name = solution_file_names_by_basenames[common_file_basename]
+                solution_file_loc = f"{solution_files_dir}/{solution_file_name}"
+                solution_results = get_file_fingerprint_hashes(solution_file_loc, include_ngrams=True)
+                solution_halo1 = solution_results.get("halo1")
+                solution_snippets = solution_results.get("snippets")
+                _, solution_fingerprint_hash = split_fingerprint(solution_halo1)
+                solution_snippet_mappings_by_snippets = create_snippet_mappings_by_snippets(
+                    solution_snippets
+                )
+
+                test_file_name = test_file_names_by_basenames[common_file_basename]
+                test_file_relative_path = f"Dataset/Autopilot/Machine{i}/{test_file_name}"
+                test_file_loc = f"{self.test_data_loc}/{test_file_relative_path}"
+                gen_results = get_file_fingerprint_hashes(test_file_loc, include_ngrams=True)
+                gen_halo1 = gen_results.get("halo1")
+                gen_snippets = gen_results.get("snippets")
+                _, gen_fingerprint_hash = split_fingerprint(gen_halo1)
+                gen_snippet_mappings_by_snippets = create_snippet_mappings_by_snippets(
+                    gen_snippets
+                )
+
+                distance = byte_hamming_distance(
+                    solution_fingerprint_hash, gen_fingerprint_hash
+                )
+                snippet_results = (
+                    solution_snippet_mappings_by_snippets.keys()
+                    & gen_snippet_mappings_by_snippets.keys()
+                )
+
+                snippets_matched_to_solution = []
+                for snippet in snippet_results:
+                    snippets_matched_to_solution.extend(solution_snippet_mappings_by_snippets[snippet])
+
+                snippets_matched_to_gen = []
+                for snippet in snippet_results:
+                    snippets_matched_to_gen.extend(gen_snippet_mappings_by_snippets[snippet])
+
+                results.append(
+                    {
+                        "test_file": test_file_relative_path,
+                        "distance": distance,
+                        "snippets_matched_to_solution": sorted(snippets_matched_to_solution, key=lambda x: x["position"]),
+                        "snippets_matched_to_gen": sorted(snippets_matched_to_gen, key=lambda x: x["position"]),
+                    }
+                )
+
+        expected_results_loc = self.get_test_loc("Dataset-expected.json")
+        check_against_expected_json_file(sorted(results, key=lambda x: x["test_file"]), expected_results_loc, regen=regen)
