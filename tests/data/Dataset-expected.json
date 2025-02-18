@@ -1,0 +1,4474 @@
+[
+  {
+    "test_file": "Dataset/Autopilot/Machine1/addItem_Machine1.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine1/itemToString_Machine1.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine1/listInitialization_Machine1.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine1/printList_Machine1.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/addItem_Machine10.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/costSum_Machine10.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/deduplicate_Machine10.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/highestPrice_Machine10.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/itemToString_Machine10.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/listInitialization_Machine10.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/load_Machine10.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/printList_Machine10.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/removeItem_Machine10.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/save_Machine10.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/swapItem_Machine10.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/updateItem_Machine10.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/addItem_Machine11.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/costSum_Machine11.c",
+    "distance": 67,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/deduplicate_Machine11.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/highestPrice_Machine11.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/itemToString_Machine11.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/listInitialization_Machine11.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/load_Machine11.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/printList_Machine11.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/removeItem_Machine11.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/save_Machine11.c",
+    "distance": 65,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/swapItem_Machine11.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/updateItem_Machine11.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/addItem_Machine12.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/costSum_Machine12.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/deduplicate_Machine12.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/highestPrice_Machine12.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/itemToString_Machine12.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/listInitialization_Machine12.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/printList_Machine12.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/removeItem_Machine12.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/save_Machine12.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/swapItem_Machine12.c",
+    "distance": 70,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/updateItem_Machine12.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/addItem_Machine13.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/itemToString_Machine13.c",
+    "distance": 39,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/listInitialization_Machine13.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/printList_Machine13.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/removeItem_Machine13.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/updateItem_Machine13.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine14/itemToString_Machine14.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine14/listInitialization_Machine14.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine14/printList_Machine14.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/addItem_Machine15.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/costSum_Machine15.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/highestPrice_Machine15.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/itemToString_Machine15.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/listInitialization_Machine15.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/printList_Machine15.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/removeItem_Machine15.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/swapItem_Machine15.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/updateItem_Machine15.c",
+    "distance": 40,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/addItem_Machine16.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      },
+      {
+        "position": 59,
+        "snippet": "7f6c27605322150fb5e01b89082af6e2",
+        "ngrams": [
+          "node",
+          "item",
+          "name",
+          "item",
+          "name",
+          "new",
+          "node",
+          "price",
+          "price",
+          "new",
+          "node",
+          "quantity",
+          "quantity",
+          "new",
+          "node",
+          "next"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      },
+      {
+        "position": 58,
+        "snippet": "7f6c27605322150fb5e01b89082af6e2",
+        "ngrams": [
+          "node",
+          "item",
+          "name",
+          "item",
+          "name",
+          "new",
+          "node",
+          "price",
+          "price",
+          "new",
+          "node",
+          "quantity",
+          "quantity",
+          "new",
+          "node",
+          "next"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/itemToString_Machine16.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/listInitialization_Machine16.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/printList_Machine16.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/removeItem_Machine16.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/updateItem_Machine16.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/addItem_Machine17.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/costSum_Machine17.c",
+    "distance": 37,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/highestPrice_Machine17.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/itemToString_Machine17.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/listInitialization_Machine17.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/printList_Machine17.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/removeItem_Machine17.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/save_Machine17.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/swapItem_Machine17.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/updateItem_Machine17.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/addItem_Machine18.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/itemToString_Machine18.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/listInitialization_Machine18.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/printList_Machine18.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/addItem_Machine19.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/itemToString_Machine19.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/listInitialization_Machine19.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/printList_Machine19.c",
+    "distance": 72,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine2/addItem_Machine2.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine2/listInitialization_Machine2.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/addItem_Machine20.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/listInitialization_Machine20.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/printList_Machine20.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/removeItem_Machine20.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/updateItem_Machine20.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/addItem_Machine21.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/itemToString_Machine21.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/listInitialization_Machine21.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/printList_Machine21.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/addItem_Machine22.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/itemToString_Machine22.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/listInitialization_Machine22.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/printList_Machine22.c",
+    "distance": 70,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/costSum_Machine23.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/deduplicate_Machine23.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/itemToString_Machine23.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/listInitialization_Machine23.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/load_Machine23.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/printList_Machine23.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/save_Machine23.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine24/itemToString_Machine24.c",
+    "distance": 69,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine24/listInitialization_Machine24.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/costSum_Machine25.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/highestPrice_Machine25.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/itemToString_Machine25.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/listInitialization_Machine25.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/printList_Machine25.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/addItem_Machine26.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/costSum_Machine26.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/deduplicate_Machine26.c",
+    "distance": 72,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/highestPrice_Machine26.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/itemToString_Machine26.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/listInitialization_Machine26.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/load_Machine26.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/printList_Machine26.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/removeItem_Machine26.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/save_Machine26.c",
+    "distance": 65,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/swapItem_Machine26.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/updateItem_Machine26.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/addItem_Machine27.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/costSum_Machine27.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/deduplicate_Machine27.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/highestPrice_Machine27.c",
+    "distance": 65,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/itemToString_Machine27.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/listInitialization_Machine27.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/load_Machine27.c",
+    "distance": 67,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/printList_Machine27.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/removeItem_Machine27.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/save_Machine27.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/swapItem_Machine27.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/updateItem_Machine27.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine28/itemToString_Machine28.c",
+    "distance": 39,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine28/listInitialization_Machine28.c",
+    "distance": 40,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine28/printList_Machine28.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/addItem_Machine3.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/costSum_Machine3.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/deduplicate_Machine3.c",
+    "distance": 67,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/highestPrice_Machine3.c",
+    "distance": 36,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/itemToString_Machine3.c",
+    "distance": 42,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/listInitialization_Machine3.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/printList_Machine3.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/removeItem_Machine3.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/save_Machine3.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/swapItem_Machine3.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/updateItem_Machine3.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/addItem_Machine4.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/itemToString_Machine4.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/listInitialization_Machine4.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/printList_Machine4.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/addItem_Machine5.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/costSum_Machine5.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/deduplicate_Machine5.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/highestPrice_Machine5.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/itemToString_Machine5.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/listInitialization_Machine5.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/load_Machine5.c",
+    "distance": 75,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/printList_Machine5.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/removeItem_Machine5.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/save_Machine5.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/swapItem_Machine5.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/updateItem_Machine5.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/addItem_Machine6.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/itemToString_Machine6.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/listInitialization_Machine6.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/printList_Machine6.c",
+    "distance": 65,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/removeItem_Machine6.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/costSum_Machine7.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/itemToString_Machine7.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/listInitialization_Machine7.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/printList_Machine7.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/save_Machine7.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/addItem_Machine8.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/costSum_Machine8.c",
+    "distance": 67,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/deduplicate_Machine8.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/highestPrice_Machine8.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/itemToString_Machine8.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/listInitialization_Machine8.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/load_Machine8.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/printList_Machine8.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/removeItem_Machine8.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/save_Machine8.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/swapItem_Machine8.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/updateItem_Machine8.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/addItem_Machine9.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "87a6494a2bbea3685c1160b1f473d743",
+        "ngrams": [
+          "int",
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "9c525e1949b6b80ec3450d6991a1367f",
+        "ngrams": [
+          "list",
+          "add",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/costSum_Machine9.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/deduplicate_Machine9.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/highestPrice_Machine9.c",
+    "distance": 72,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/itemToString_Machine9.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/listInitialization_Machine9.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/load_Machine9.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/printList_Machine9.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/removeItem_Machine9.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/save_Machine9.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/swapItem_Machine9.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/updateItem_Machine9.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "4b042533acb73f58e6af788a362244fc",
+        "ngrams": [
+          "int",
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned"
+        ]
+      },
+      {
+        "position": 1,
+        "snippet": "793b70337c24aa5f5ce3f5fcf0e48c0f",
+        "ngrams": [
+          "list",
+          "update",
+          "item",
+          "at",
+          "pos",
+          "node",
+          "head",
+          "char",
+          "item",
+          "name",
+          "float",
+          "price",
+          "int",
+          "quantity",
+          "unsigned",
+          "int"
+        ]
+      }
+    ]
+  }
+]
