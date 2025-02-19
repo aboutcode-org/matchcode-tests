@@ -1,0 +1,2310 @@
+[
+  {
+    "test_file": "Dataset/Autopilot/Machine1/addItem_Machine1.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine1/itemToString_Machine1.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine1/listInitialization_Machine1.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine1/printList_Machine1.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/addItem_Machine10.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/costSum_Machine10.c",
+    "distance": 38,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/deduplicate_Machine10.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/highestPrice_Machine10.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/itemToString_Machine10.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/listInitialization_Machine10.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/load_Machine10.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/printList_Machine10.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/removeItem_Machine10.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/save_Machine10.c",
+    "distance": 36,
+    "snippets_matched_to_solution": [
+      {
+        "position": 21,
+        "snippet": "b7ccddceca26254532aba19c9711cd5c",
+        "ngrams": [
+          "idf",
+          "idf",
+          "s",
+          "2f",
+          "d",
+          "n",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next"
+        ]
+      },
+      {
+        "position": 25,
+        "snippet": "e4a8da4892c0771c39cb6ee2856ce941",
+        "ngrams": [
+          "d",
+          "n",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next",
+          "idf",
+          "idf",
+          "return",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 35,
+        "snippet": "b7ccddceca26254532aba19c9711cd5c",
+        "ngrams": [
+          "idf",
+          "idf",
+          "s",
+          "2f",
+          "d",
+          "n",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next"
+        ]
+      },
+      {
+        "position": 39,
+        "snippet": "e4a8da4892c0771c39cb6ee2856ce941",
+        "ngrams": [
+          "d",
+          "n",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next",
+          "idf",
+          "idf",
+          "return",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/swapItem_Machine10.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine10/updateItem_Machine10.c",
+    "distance": 38,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/addItem_Machine11.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/costSum_Machine11.c",
+    "distance": 34,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/deduplicate_Machine11.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/highestPrice_Machine11.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/itemToString_Machine11.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/listInitialization_Machine11.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/load_Machine11.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/printList_Machine11.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/removeItem_Machine11.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/save_Machine11.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/swapItem_Machine11.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine11/updateItem_Machine11.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/addItem_Machine12.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/costSum_Machine12.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/deduplicate_Machine12.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/highestPrice_Machine12.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/itemToString_Machine12.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/listInitialization_Machine12.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/printList_Machine12.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/removeItem_Machine12.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/save_Machine12.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/swapItem_Machine12.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine12/updateItem_Machine12.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/addItem_Machine13.c",
+    "distance": 45,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/itemToString_Machine13.c",
+    "distance": 39,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/listInitialization_Machine13.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/printList_Machine13.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/removeItem_Machine13.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine13/updateItem_Machine13.c",
+    "distance": 41,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine14/itemToString_Machine14.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine14/listInitialization_Machine14.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine14/printList_Machine14.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/addItem_Machine15.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/costSum_Machine15.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/highestPrice_Machine15.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/itemToString_Machine15.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/listInitialization_Machine15.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/printList_Machine15.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/removeItem_Machine15.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/swapItem_Machine15.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine15/updateItem_Machine15.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/addItem_Machine16.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/itemToString_Machine16.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/listInitialization_Machine16.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/printList_Machine16.c",
+    "distance": 68,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/removeItem_Machine16.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine16/updateItem_Machine16.c",
+    "distance": 40,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/addItem_Machine17.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/costSum_Machine17.c",
+    "distance": 37,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/highestPrice_Machine17.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/itemToString_Machine17.c",
+    "distance": 70,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/listInitialization_Machine17.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/printList_Machine17.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/removeItem_Machine17.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/save_Machine17.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/swapItem_Machine17.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine17/updateItem_Machine17.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/addItem_Machine18.c",
+    "distance": 45,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/itemToString_Machine18.c",
+    "distance": 36,
+    "snippets_matched_to_solution": [
+      {
+        "position": 8,
+        "snippet": "3e60074ae8ac2a1a9a24051d50913ad2",
+        "ngrams": [
+          "idf",
+          "idf",
+          "idf",
+          "d",
+          "s",
+          "2f",
+          "ea",
+          "idf",
+          "quantity",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "return",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 16,
+        "snippet": "3e60074ae8ac2a1a9a24051d50913ad2",
+        "ngrams": [
+          "idf",
+          "idf",
+          "idf",
+          "d",
+          "s",
+          "2f",
+          "ea",
+          "idf",
+          "quantity",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "return",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/listInitialization_Machine18.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine18/printList_Machine18.c",
+    "distance": 71,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/addItem_Machine19.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/itemToString_Machine19.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/listInitialization_Machine19.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine19/printList_Machine19.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine2/addItem_Machine2.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine2/listInitialization_Machine2.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/addItem_Machine20.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/listInitialization_Machine20.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/printList_Machine20.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/removeItem_Machine20.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine20/updateItem_Machine20.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/addItem_Machine21.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/itemToString_Machine21.c",
+    "distance": 42,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/listInitialization_Machine21.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine21/printList_Machine21.c",
+    "distance": 34,
+    "snippets_matched_to_solution": [
+      {
+        "position": 17,
+        "snippet": "073248c9d2bae4515693c08b4488241b",
+        "ngrams": [
+          "d",
+          "s",
+          "2f",
+          "ea",
+          "n",
+          "idf",
+          "idf",
+          "quantity",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "next"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 15,
+        "snippet": "073248c9d2bae4515693c08b4488241b",
+        "ngrams": [
+          "d",
+          "s",
+          "2f",
+          "ea",
+          "n",
+          "idf",
+          "idf",
+          "quantity",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "next"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/addItem_Machine22.c",
+    "distance": 40,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/itemToString_Machine22.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/listInitialization_Machine22.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine22/printList_Machine22.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/costSum_Machine23.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/deduplicate_Machine23.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/itemToString_Machine23.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/listInitialization_Machine23.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/load_Machine23.c",
+    "distance": 38,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/printList_Machine23.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine23/save_Machine23.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine24/itemToString_Machine24.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine24/listInitialization_Machine24.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/costSum_Machine25.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/highestPrice_Machine25.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/itemToString_Machine25.c",
+    "distance": 66,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/listInitialization_Machine25.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine25/printList_Machine25.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/addItem_Machine26.c",
+    "distance": 35,
+    "snippets_matched_to_solution": [
+      {
+        "position": 45,
+        "snippet": "6d48034c3b07a7eb38164679b86d4d3b",
+        "ngrams": [
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 47,
+        "snippet": "9c5eb8280a4dd76006f7a6ef18f9ebe3",
+        "ngrams": [
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf"
+        ]
+      },
+      {
+        "position": 48,
+        "snippet": "e55eab21a5d3217973acad33bfda291c",
+        "ngrams": [
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 50,
+        "snippet": "9233d19076addeb7985643af542fc6e9",
+        "ngrams": [
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf"
+        ]
+      },
+      {
+        "position": 51,
+        "snippet": "c4148d65e9c0acb4a694733490b12cf4",
+        "ngrams": [
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 52,
+        "snippet": "1c6a747ef7441f73398a3759c3493c2e",
+        "ngrams": [
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 23,
+        "snippet": "6d48034c3b07a7eb38164679b86d4d3b",
+        "ngrams": [
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 25,
+        "snippet": "9c5eb8280a4dd76006f7a6ef18f9ebe3",
+        "ngrams": [
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf"
+        ]
+      },
+      {
+        "position": 26,
+        "snippet": "e55eab21a5d3217973acad33bfda291c",
+        "ngrams": [
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 28,
+        "snippet": "9233d19076addeb7985643af542fc6e9",
+        "ngrams": [
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf"
+        ]
+      },
+      {
+        "position": 29,
+        "snippet": "c4148d65e9c0acb4a694733490b12cf4",
+        "ngrams": [
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 30,
+        "snippet": "1c6a747ef7441f73398a3759c3493c2e",
+        "ngrams": [
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/costSum_Machine26.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/deduplicate_Machine26.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/highestPrice_Machine26.c",
+    "distance": 40,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/itemToString_Machine26.c",
+    "distance": 35,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/listInitialization_Machine26.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/load_Machine26.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "d1f1a537339c026ac49b4f9db57dbc41",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "file",
+          "idf",
+          "idf",
+          "idf",
+          "r",
+          "if",
+          "idf",
+          "null",
+          "return",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "d1f1a537339c026ac49b4f9db57dbc41",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "file",
+          "idf",
+          "idf",
+          "idf",
+          "r",
+          "if",
+          "idf",
+          "null",
+          "return",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/printList_Machine26.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/removeItem_Machine26.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/save_Machine26.c",
+    "distance": 29,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "defb61422c694f5a96741d5a058919bf",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "file",
+          "idf",
+          "idf",
+          "idf",
+          "w",
+          "if",
+          "idf",
+          "null",
+          "return",
+          "idf"
+        ]
+      },
+      {
+        "position": 29,
+        "snippet": "e4a8da4892c0771c39cb6ee2856ce941",
+        "ngrams": [
+          "d",
+          "n",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next",
+          "idf",
+          "idf",
+          "return",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "defb61422c694f5a96741d5a058919bf",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "file",
+          "idf",
+          "idf",
+          "idf",
+          "w",
+          "if",
+          "idf",
+          "null",
+          "return",
+          "idf"
+        ]
+      },
+      {
+        "position": 22,
+        "snippet": "e4a8da4892c0771c39cb6ee2856ce941",
+        "ngrams": [
+          "d",
+          "n",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "price",
+          "idf",
+          "quantity",
+          "idf",
+          "idf",
+          "next",
+          "idf",
+          "idf",
+          "return",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/swapItem_Machine26.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine26/updateItem_Machine26.c",
+    "distance": 32,
+    "snippets_matched_to_solution": [
+      {
+        "position": 37,
+        "snippet": "282292abcdab5101508acd1c61e9973b",
+        "ngrams": [
+          "idf",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name"
+        ]
+      },
+      {
+        "position": 38,
+        "snippet": "44a012052b7fef0bba11d5992c829086",
+        "ngrams": [
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf"
+        ]
+      },
+      {
+        "position": 39,
+        "snippet": "0dd0de70efe0a474a788ae99340c2dae",
+        "ngrams": [
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 41,
+        "snippet": "35164c68a442f2a1d3ebb7be34e10d32",
+        "ngrams": [
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf"
+        ]
+      },
+      {
+        "position": 42,
+        "snippet": "e55eab21a5d3217973acad33bfda291c",
+        "ngrams": [
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 44,
+        "snippet": "9233d19076addeb7985643af542fc6e9",
+        "ngrams": [
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 37,
+        "snippet": "282292abcdab5101508acd1c61e9973b",
+        "ngrams": [
+          "idf",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name"
+        ]
+      },
+      {
+        "position": 38,
+        "snippet": "44a012052b7fef0bba11d5992c829086",
+        "ngrams": [
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf"
+        ]
+      },
+      {
+        "position": 39,
+        "snippet": "0dd0de70efe0a474a788ae99340c2dae",
+        "ngrams": [
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 41,
+        "snippet": "35164c68a442f2a1d3ebb7be34e10d32",
+        "ngrams": [
+          "name",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf"
+        ]
+      },
+      {
+        "position": 42,
+        "snippet": "e55eab21a5d3217973acad33bfda291c",
+        "ngrams": [
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 44,
+        "snippet": "9233d19076addeb7985643af542fc6e9",
+        "ngrams": [
+          "name",
+          "idf",
+          "idf",
+          "idf",
+          "1",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/addItem_Machine27.c",
+    "distance": 42,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "1ee86ce1f63221996a1a784ece2495a1",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "float",
+          "idf",
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 8,
+        "snippet": "e6a2f25ccb149098ef7c4cece7e3ae83",
+        "ngrams": [
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price"
+        ]
+      },
+      {
+        "position": 11,
+        "snippet": "69313571d3e8b3d8f893c27f8da28d31",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity"
+        ]
+      },
+      {
+        "position": 12,
+        "snippet": "e36452b37762e348d480543413bd4de3",
+        "ngrams": [
+          "idf",
+          "node",
+          "idf",
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "1ee86ce1f63221996a1a784ece2495a1",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "float",
+          "idf",
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf"
+        ]
+      },
+      {
+        "position": 8,
+        "snippet": "e6a2f25ccb149098ef7c4cece7e3ae83",
+        "ngrams": [
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price"
+        ]
+      },
+      {
+        "position": 11,
+        "snippet": "69313571d3e8b3d8f893c27f8da28d31",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity"
+        ]
+      },
+      {
+        "position": 12,
+        "snippet": "e36452b37762e348d480543413bd4de3",
+        "ngrams": [
+          "idf",
+          "node",
+          "idf",
+          "idf",
+          "sizeof",
+          "idf",
+          "idf",
+          "item",
+          "name",
+          "idf",
+          "idf",
+          "price",
+          "idf",
+          "idf",
+          "quantity",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/costSum_Machine27.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/deduplicate_Machine27.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/highestPrice_Machine27.c",
+    "distance": 59,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/itemToString_Machine27.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/listInitialization_Machine27.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/load_Machine27.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/printList_Machine27.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/removeItem_Machine27.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/save_Machine27.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/swapItem_Machine27.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine27/updateItem_Machine27.c",
+    "distance": 29,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine28/itemToString_Machine28.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine28/listInitialization_Machine28.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine28/printList_Machine28.c",
+    "distance": 72,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/addItem_Machine3.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/costSum_Machine3.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/deduplicate_Machine3.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/highestPrice_Machine3.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/itemToString_Machine3.c",
+    "distance": 45,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/listInitialization_Machine3.c",
+    "distance": 53,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/printList_Machine3.c",
+    "distance": 35,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/removeItem_Machine3.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/save_Machine3.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/swapItem_Machine3.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine3/updateItem_Machine3.c",
+    "distance": 46,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/addItem_Machine4.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/itemToString_Machine4.c",
+    "distance": 65,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/listInitialization_Machine4.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine4/printList_Machine4.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/addItem_Machine5.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/costSum_Machine5.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/deduplicate_Machine5.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/highestPrice_Machine5.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/itemToString_Machine5.c",
+    "distance": 67,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/listInitialization_Machine5.c",
+    "distance": 65,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/load_Machine5.c",
+    "distance": 13,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/printList_Machine5.c",
+    "distance": 73,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/removeItem_Machine5.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/save_Machine5.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/swapItem_Machine5.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine5/updateItem_Machine5.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/addItem_Machine6.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/itemToString_Machine6.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/listInitialization_Machine6.c",
+    "distance": 43,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/printList_Machine6.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine6/removeItem_Machine6.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/costSum_Machine7.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/itemToString_Machine7.c",
+    "distance": 67,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/listInitialization_Machine7.c",
+    "distance": 58,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/printList_Machine7.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine7/save_Machine7.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/addItem_Machine8.c",
+    "distance": 50,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/costSum_Machine8.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/deduplicate_Machine8.c",
+    "distance": 69,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/highestPrice_Machine8.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/itemToString_Machine8.c",
+    "distance": 64,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/listInitialization_Machine8.c",
+    "distance": 0,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/load_Machine8.c",
+    "distance": 51,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/printList_Machine8.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/removeItem_Machine8.c",
+    "distance": 56,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/save_Machine8.c",
+    "distance": 44,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/swapItem_Machine8.c",
+    "distance": 55,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine8/updateItem_Machine8.c",
+    "distance": 61,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/addItem_Machine9.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "1ee86ce1f63221996a1a784ece2495a1",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "float",
+          "idf",
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "1ee86ce1f63221996a1a784ece2495a1",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "float",
+          "idf",
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf"
+        ]
+      }
+    ]
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/costSum_Machine9.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/deduplicate_Machine9.c",
+    "distance": 72,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/highestPrice_Machine9.c",
+    "distance": 62,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/itemToString_Machine9.c",
+    "distance": 52,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/listInitialization_Machine9.c",
+    "distance": 57,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/load_Machine9.c",
+    "distance": 63,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/printList_Machine9.c",
+    "distance": 54,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/removeItem_Machine9.c",
+    "distance": 49,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/save_Machine9.c",
+    "distance": 60,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/swapItem_Machine9.c",
+    "distance": 48,
+    "snippets_matched_to_solution": [],
+    "snippets_matched_to_gen": []
+  },
+  {
+    "test_file": "Dataset/Autopilot/Machine9/updateItem_Machine9.c",
+    "distance": 47,
+    "snippets_matched_to_solution": [
+      {
+        "position": 0,
+        "snippet": "1ee86ce1f63221996a1a784ece2495a1",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "float",
+          "idf",
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf"
+        ]
+      }
+    ],
+    "snippets_matched_to_gen": [
+      {
+        "position": 0,
+        "snippet": "1ee86ce1f63221996a1a784ece2495a1",
+        "ngrams": [
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "char",
+          "idf",
+          "float",
+          "idf",
+          "int",
+          "idf",
+          "unsigned",
+          "int",
+          "idf",
+          "node",
+          "idf",
+          "idf"
+        ]
+      }
+    ]
+  }
+]
